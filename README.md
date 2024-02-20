@@ -1,6 +1,6 @@
 # SpeedCAT闪电猫官网地址
 
-最新地址：[speedcat.cc](https://scaff01.scvipaff.com/auth/register?code=fBzb)
+最新地址：[speedcat.ws](https://scaff01.scvipaff.com/auth/register?code=fBzb)
 
 ## 简介
 
@@ -16,14 +16,16 @@
 
 使用优惠码 LONGNIAN 全场7折
 
+所有套餐季付95折，半年9折，年付8折
+
 ## 特色
 
 * 节点速度高达5 GBPS
 * 全球120+节点
 * 无视高峰期稳定不动摇
 * 全IPLC专线专业团队
-* 不留任何记录保护你的安全
-* 亲切线上客服帮你解决问题
+* 全节点支持ChatGPT及其他AI工具
+* 多数流媒体解锁
 
 ## 套餐列表
 
