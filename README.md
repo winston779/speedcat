@@ -1,6 +1,6 @@
 # SpeedCAT闪电猫官网地址
 
-最新地址：[speedcat.la](https://in03.speedcat.cx/auth/register?code=fBzb)
+最新地址：[speedcat.la](https://scweb01.speedcat.la/auth/register?code=fBzb)
 
 ## 简介
 
